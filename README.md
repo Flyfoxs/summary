@@ -4,11 +4,23 @@
 
 [一键搭建分布式Seata测试环境(Docker)](https://github.com/Flyfoxs/seata_example_docker_compose)
 
+[部署Jupyter Notebook演示Java示例 (极大的提高了可读性)](https://github.com/Flyfoxs/java-notebook)
 
+- [单例](https://github.com/Flyfoxs/java-notebook/blob/main/notebook/singleton.ipynb)
+
+- [Spring book(Hello world)](https://github.com/Flyfoxs/java-notebook/blob/main/notebook/springboot_tomcat.ipynb)
+
+- [Stream (Hello world)](https://github.com/Flyfoxs/java-notebook/blob/main/notebook/stream.ipynb)
+
+- [Spring 配置文件优先级](https://github.com/Flyfoxs/java-notebook/blob/main/notebook/springboot_conf_priority.ipynb)
+
+- [垃圾回收-弱引用](https://github.com/Flyfoxs/java-notebook/blob/main/notebook/weakReference.ipynb)
+
+  
 
 ## 2. 大数据/数据库/数据分析
 
-[[海上风场SCADA数据缺失智能修复 (冠军🏆)](https://github.com/Flyfoxs/df_jf)
+[海上风场SCADA数据缺失智能修复 (冠军🏆)](https://github.com/Flyfoxs/df_jf)
 
 [ 通过消息中间件同步数据: Binlog(MySQL) -> Canal -> Kafka -> Flume -> File (基于Docker一键部署) ](https://github.com/Flyfoxs/canal2kafka)
 
